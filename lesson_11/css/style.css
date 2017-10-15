@@ -1,0 +1,42 @@
+body {
+			background-color: #f1cd77 ;
+		}
+.shortcut {
+	display: inline-block;
+			border: 2px solid black;
+			padding-right: 10px;
+			background-color: #ff7f24;
+			
+		}
+h1 {
+	text-align: center;
+	color: #008b00;
+}
+#I {
+	text-align: center;
+}
+#II {
+	text-align: center;
+}
+#III {
+	text-align: center;
+}
+#IV {
+	text-align: center;
+}
+.p4{
+	text-decoration: line-through;
+}
+.p1 {
+	text-decoration: underline;
+}
+.p2 {
+ font-weight: bold;
+}
+.p3 {
+	font-style: oblique;
+}
+p {
+	text-align: left;
+	margin-right: 20px;
+}
