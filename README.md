@@ -12,3 +12,4 @@
 + [Урок 19](https://github.com/gesagrus/gesagrus.github.io/tree/master/lesson_19) - Верстка при помощи bootstrap 3. 
 + [Урок 20](https://github.com/gesagrus/gesagrus.github.io/tree/master/lesson_20) - Препроцессор LESS для CSS
 + [Урок 21](https://github.com/gesagrus/gesagrus.github.io/tree/master/lesson_21) - Сниппеты 
++ [Урок 23](https://github.com/gesagrus/gesagrus.github.io/tree/master/lesson_23) - Адаптивная верстка
